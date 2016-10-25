@@ -1,5 +1,7 @@
 # Joins
 
+* [Data denormalization is broken](https://hackernoon.com/data-denormalization-is-broken-7b697352f405#.cdc1qnzif)
+
 ## Joins vs Subquery
 
 Some joins can be rewritten as subquery.
