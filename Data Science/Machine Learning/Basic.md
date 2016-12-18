@@ -8,6 +8,12 @@ At certain period of time you do ML on a set of data. After some period, that da
 
 If you use ML to scan for resume to accept or reject but did not learn from the rejected resume, you are not creating a feedback loops where you can learn failure.
 
+```
+Simulated annealing
+Knapsack problem
+NP-Complete
+```
+
 ## Companies
 
 * [Zebra Medical Vision](https://www.zebra-med.com/)
@@ -15,3 +21,5 @@ If you use ML to scan for resume to accept or reject but did not learn from the 
 ## Videos
 
 * [Google Developer's series of ML](https://www.youtube.com/watch?v=cKxRvEZd3Mw)
+* [Machine Learning is Generalization to group or cluster learnings](https://www.youtube.com/watch?v=T1nFQ49TyeA)
+* [Ruby for Home-Ec](https://www.youtube.com/watch?v=iosgoDJl8VY)
